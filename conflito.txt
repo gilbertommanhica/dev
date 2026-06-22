@@ -1,1 +1,1 @@
-Mudança feita na main
+Mudança combinada da main e da branch A
